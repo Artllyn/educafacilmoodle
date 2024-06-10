@@ -1,0 +1,35 @@
+{
+    "name": "EducaFacil",
+    "short_name": "EducaFacil",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "theme/boost/testeeduca.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "theme/boost/logoeduca.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "theme/boost/testeeduca.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "theme/boost/testeeduca.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
